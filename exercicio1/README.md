@@ -6,10 +6,7 @@ Faça isso:
     
 **a)** Utilizando ifs aninhados
 ```jsx
-    if(expressao){
-        if(expressao){
 
-        }
     }
 ```
 **b)** Utilizando um operador lógico para unir duas operações relacionais
